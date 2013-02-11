@@ -1,0 +1,7 @@
+# Generic temporary files.
+*~
+*.tmp
+*.out
+
+# Python
+*.pyc
